@@ -1,2 +1,2 @@
 # test-solid-model
-This project is about iconic Titanic. Using titanic dataset, I have done some prediction analysis on survival of passengers. This analysis is based on many criterias like age, class, gender etc.
+This project is about the iconic Titanic. Using the Titanic dataset, I have done some prediction analysis on the survival of passengers. This analysis is based on many criteria like age, class, gender, etc.
